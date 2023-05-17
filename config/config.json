@@ -1,0 +1,45 @@
+{
+  "INVESTMENT": {
+    "USDT": {
+      "MIN": 20.0,
+      "MAX": 25.0,
+      "STEP": 1.0
+    }
+  },
+
+  "SCANNING": {
+    "DEPTH": 50,
+    "WHITELIST": []
+  },
+
+  "EXECUTION": {
+    "ENABLED": true,
+    "CAP": 0,
+    "STRATEGY": "linear",
+    "TEMPLATE": ["BUY", "SELL", "SELL"],
+    "FEE": 0.075,
+    "THRESHOLD": {
+      "PROFIT": 0.11,
+      "AGE": 25
+    }
+  },
+
+  "HUD": {
+    "ENABLED": true,
+    "ROWS": 10,
+    "REFRESH_RATE": 500
+  },
+
+  "LOG": {
+    "LEVEL": "debug",
+    "PRETTY_PRINT": true,
+    "STATUS_UPDATE_INTERVAL": 2
+  },
+
+  "WEBSOCKET": {
+    "BUNDLE_SIZE": 1,
+    "INITIALIZATION_INTERVAL": 200
+  },
+
+  "BINANCE_OPTIONS": {}
+}
