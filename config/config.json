@@ -25,7 +25,7 @@
   },
 
   "HUD": {
-    "ENABLED": true,
+    "ENABLED": false,
     "ROWS": 5,
     "REFRESH_RATE": 500
   },
