@@ -8,8 +8,8 @@
   },
 
   "SCANNING": {
-    "DEPTH": 50,
-    "WHITELIST": []
+    "DEPTH": 500,
+    "WHITELIST": ["AST", "BTC", "USDT"]
   },
 
   "EXECUTION": {
