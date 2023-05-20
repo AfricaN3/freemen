@@ -1,9 +1,9 @@
 {
   "INVESTMENT": {
-    "USDT": {
-      "MIN": 20.0,
-      "MAX": 25.0,
-      "STEP": 1.0
+    "BTC": {
+      "MIN": 0.001,
+      "MAX": 0.0015,
+      "STEP": 0.0005
     }
   },
 
@@ -37,7 +37,7 @@
   },
 
   "WEBSOCKET": {
-    "BUNDLE_SIZE": 5,
+    "BUNDLE_SIZE": 1,
     "INITIALIZATION_INTERVAL": 200
   },
 
