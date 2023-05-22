@@ -19,7 +19,7 @@
     "TEMPLATE": ["BUY", "SELL", "SELL"],
     "FEE": 0.075,
     "THRESHOLD": {
-      "PROFIT": 0.11,
+      "PROFIT": 0.05,
       "AGE": 25
     }
   },
