@@ -8,7 +8,7 @@
   },
 
   "SCANNING": {
-    "DEPTH": 100,
+    "DEPTH": 500,
     "WHITELIST": [
       "BTC",
       "USDT",
