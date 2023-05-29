@@ -16,7 +16,7 @@
     "ENABLED": true,
     "CAP": 0,
     "STRATEGY": "linear",
-    "TEMPLATE": ["BUY", "*", "*"],
+    "TEMPLATE": ["SELL", "BUY", "SELL"],
     "FEE": 0.075,
     "THRESHOLD": {
       "PROFIT": 0.05,
