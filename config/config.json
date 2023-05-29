@@ -14,9 +14,9 @@
 
   "EXECUTION": {
     "ENABLED": true,
-    "CAP": 10,
+    "CAP": 0,
     "STRATEGY": "linear",
-    "TEMPLATE": ["*", "*", "*"],
+    "TEMPLATE": ["BUY", "*", "*"],
     "FEE": 0.075,
     "THRESHOLD": {
       "PROFIT": 0.05,
