@@ -9,7 +9,35 @@
 
   "SCANNING": {
     "DEPTH": 100,
-    "WHITELIST": []
+    "WHITELIST": [
+      "BTC",
+      "USDT",
+      "BUSD",
+      "TOMO",
+      "MULTI",
+      "LINA",
+      "BEL",
+      "EDU",
+      "NKN",
+      "BEL",
+      "CAKE",
+      "MAGIC",
+      "AMB",
+      "JOE",
+      "MASK",
+      "AMB",
+      "ALPACA",
+      "GNO",
+      "ETH",
+      "LDO",
+      "SUI",
+      "CREAM",
+      "SSV",
+      "GALA",
+      "BNB",
+      "TUSD",
+      "FOR"
+    ]
   },
 
   "EXECUTION": {
