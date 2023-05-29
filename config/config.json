@@ -8,43 +8,15 @@
   },
 
   "SCANNING": {
-    "DEPTH": 500,
-    "WHITELIST": [
-      "BTC",
-      "USDT",
-      "BUSD",
-      "TOMO",
-      "MULTI",
-      "LINA",
-      "BEL",
-      "EDU",
-      "NKN",
-      "BEL",
-      "CAKE",
-      "MAGIC",
-      "AMB",
-      "JOE",
-      "MASK",
-      "AMB",
-      "ALPACA",
-      "GNO",
-      "ETH",
-      "LDO",
-      "SUI",
-      "CREAM",
-      "SSV",
-      "GALA",
-      "BNB",
-      "TUSD",
-      "FOR"
-    ]
+    "DEPTH": 100,
+    "WHITELIST": []
   },
 
   "EXECUTION": {
     "ENABLED": true,
     "CAP": 0,
     "STRATEGY": "linear",
-    "TEMPLATE": ["SELL", "BUY", "SELL"],
+    "TEMPLATE": ["BUY", "SELL", "SELL"],
     "FEE": 0.075,
     "THRESHOLD": {
       "PROFIT": 0.05,
