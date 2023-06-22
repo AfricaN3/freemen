@@ -8,7 +8,7 @@
   },
 
   "SCANNING": {
-    "DEPTH": 500,
+    "DEPTH": 1000,
     "WHITELIST": [
       "NULS",
       "FLM",
